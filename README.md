@@ -1,4 +1,4 @@
-# Bank Solidity smart contracts 
+# Bank smart contract using Solidity
 
 ![Project Image](https://i.ibb.co/zX4y5Wf/photo-2020-10-22-00-17-03.jpg)
 
