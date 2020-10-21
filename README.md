@@ -1,6 +1,6 @@
 # Bank Solidity smart contracts 
 
-![Project Image](https://i.ibb.co/r6snBkZ/photo-2020-10-21-23-28-05.jpg)
+![Project Image](https://i.ibb.co/zX4y5Wf/photo-2020-10-22-00-17-03.jpg)
 
 > This is a Bank Solidity smart contract functionality.
 
@@ -71,7 +71,7 @@ Open your terminal and type the next commands
 
 6. Now you can use the contract as described in the [Description](#description) section.
 
-![Contracts functionality Image](https://i.ibb.co/r6snBkZ/photo-2020-10-21-23-28-05.jpg)
+![Contracts functionality Image](https://i.ibb.co/zX4y5Wf/photo-2020-10-22-00-17-03.jpg)
 
 [Back To The Top](#read-me-template)
 
