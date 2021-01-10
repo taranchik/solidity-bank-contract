@@ -79,7 +79,7 @@ Open your terminal and type the next commands
 
 ## References
 
-[Solidity language for implementing smart contracts](https://solidity.readthedocs.io/en/v0.7.4/)
+[Solidity programming language](https://solidity.readthedocs.io/en/v0.7.4/)
 
 [REMIX IDE](https://remix.ethereum.org/)
 
