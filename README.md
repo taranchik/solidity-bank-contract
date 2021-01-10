@@ -1,4 +1,4 @@
-# Bank smart contract using Solidity
+# Bank smart contract
 
 ![Project Image](https://i.ibb.co/zX4y5Wf/photo-2020-10-22-00-17-03.jpg)
 
@@ -45,7 +45,7 @@ the guarantor; and (ii) the lender should receive the full loan amount along wit
 
 The contract stipulates that users cannot abuse the functionality in any way.
 
-[Back To The Top](#bank-solidity-smart-contracts)
+[Back To The Top](#bank-smart-contract)
 
 ---
 
@@ -83,7 +83,7 @@ Open your terminal and type the next commands
 
 [REMIX IDE](https://remix.ethereum.org/)
 
-[Back To The Top](#bank-solidity-smart-contracts)
+[Back To The Top](#bank-smart-contract)
 
 ---
 
@@ -110,4 +110,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - GitLab - [@taranchik](https://gitlab.com/taranchik)
 - Twitter - [@viataranushenko](https://twitter.com/viataranushenko)
 
-[Back To The Top](#bank-solidity-smart-contracts)
+[Back To The Top](#bank-smart-contract)
