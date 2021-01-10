@@ -53,8 +53,6 @@ The contract stipulates that users cannot abuse the functionality in any way.
 
 #### Installation
 
-Open your terminal and type the next commands
-
 1. Open link with the [REMIX IDE](https://remix.ethereum.org/)
 
 2. Create a new file and name it Bank.sol
